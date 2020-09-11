@@ -7,5 +7,5 @@ inport javax.swing
 #include<stdio.h>
 int main()
 {
-
+	printf("HelloWorld!!!");
 }
